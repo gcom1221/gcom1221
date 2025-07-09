@@ -22,7 +22,7 @@
 
 ## 📂 Featured Projects
 
-- [🤖 Macy – AI Coding Assistant](https://github.com/MalcolmOnwinaru/July4_Assignment_3)  
+- [🤖 Macy – AI Coding Assistant](https://github.com/gcom1221/July4_Assignment_3)  
   _A chatbot that teaches code with real-time feedback using AI APIs._
 
 - [🌐 My Portfolio – Portfolio Webpage](https://gcom1221.github.io)  
