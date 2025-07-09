@@ -1,4 +1,3 @@
-
 # 👋 Hi there!I'm Malcolm.
 
 🎯 A passionate web developer and aspiring software engineer. I love solving problems with **clean code**, **UX-focused web design**, and **open-source collaboration**.
@@ -23,9 +22,11 @@
 
 ## 📂 Featured Projects
 
-- [🎓 Macy 🤖 – AI Coding Assistant](https://github.com/MalcolmOnwinaru/July4_Assignment_3)  
+- [🤖 Macy – AI Coding Assistant](https://github.com/MalcolmOnwinaru/July4_Assignment_3)  
   _A chatbot that teaches code with real-time feedback using AI APIs._
 
+- [🌐 My Portfolio – Portfolio Webpage](https://github.com/gcom1221/gcom1221.github.io)  
+  _A responsive, modern portfolio website showcasing my projects, skills, and background as a developer._
 ---
 
 ## 📫 Connect With Me
