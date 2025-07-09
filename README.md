@@ -1,7 +1,4 @@
 
-<!-- Banner -->
-<img src="https://github.com/gcom1221/gcom1221/assets/your-banner-image-id" alt="Banner" style="width:100%;" />
-
 # 👋 Hi there!I'm Malcolm.
 
 🎯 A passionate web developer and aspiring software engineer. I love solving problems with **clean code**, **UX-focused web design**, and **open-source collaboration**.
