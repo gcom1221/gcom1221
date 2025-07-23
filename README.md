@@ -25,7 +25,7 @@
 - [🤖 Macy – AI Coding Assistant](https://github.com/gcom1221/July4_Assignment_3)  
   _A chatbot that teaches code with real-time feedback using AI APIs._
 
-- [🌐 My Portfolio – Portfolio Webpage](https://gcom1221.github.io)  
+- [🌐 My Portfolio – Portfolio Webpage](gcom1221.github.io)  
   _A responsive, modern portfolio website showcasing my projects, skills, and background as a developer._
 ---
 
